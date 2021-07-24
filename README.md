@@ -1,6 +1,6 @@
 # 51515-print-and-scan-processor
 
-Note: requires ImageMagick, python3, python3-pillow
+Note: requires ImageMagick, python3, python3-pillow: `apt-get install imagemagick python3 python3-pillow`
 
 Run `python3 letters.py` to generate hex bitmap for Arial letters.
 
